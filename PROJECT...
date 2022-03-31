@@ -1,0 +1,590 @@
+         	<ul>
+         		<li><a href="index.html">Home</a></li>
+         		<li><a href="gallery.html">Gallery</a></li>
+         		<li><a href="register.html">Register</a></li>
+         		<li><a href="login.html">Login</a></li>
+         		<li><a href="contact.html">Contact Us</a></li>
+         	</ul>
+         </nav>
+		<!-- End Nav coding & menu coding -->
+	</div>
+</header>
+<!-- End Header Coding-->
+<!-- Start Section Coding-->
+<section>
+	<div class="w-80" style="padding: 0;">
+	<div class="section-img">
+		<div class="section-bg-box">
+			<h1 class="animated slideInLeft">Health Care Services</h1>
+			<h2 class="animated slideInRight">We Care About Your Health</h2>
+		</div>
+	</div>
+	<!-- text decoration coding -->
+	<br/><br/>
+	<h1 class="welcome-text">WELCOME TO HOSPITAL SERVICE</h1>
+	<br/><br/>
+	<p>
+		All patients deserve access to the right testing & treatment at the right time.
+ 
+	</p>
+	<br/>
+
+
+	
+	
+	
+	<h1 class="welcome-text">OUR OUTSTANDING SERVICES</h1>
+	<br/>
+	<h2>What We Offer!</h2>
+	
+	<ul>
+		<li>DENTAL IMPLANTS</li>
+		<li>WHITENING</li>
+		<li>VACCINATIONS</li>
+		<li>LABORATORY</li>
+		<li>MEDICAL DRESSAGE</li>
+		<li>EMERGENCY CONTRACEPTION</li>
+	</ul>
+	<br/>
+	<h2>Our Department</h2>
+
+	<ul>
+		<li>DENTAL CARE</li>
+		<li>OTOLOGY</li>
+		<li>CARDIAC</li>
+		<li>HEPATOLOGY</li>
+		<li>ORTHOPEDICS</li>
+		<li>ORTHOPEDICS</li>
+		<li>OUTPATIENT</li>
+		<li>MENTAL HEAlTH</li>
+	    <li>OUTPATIENT DEPARTMENT</li>
+	    <li>OPERATION THEATRE</li>
+	    <li>RADIOLOGY</li>
+	    <li>MEDICAL RECORD DEPARTMENT</li>
+	</ul>
+	<br/>
+	<h1 class="welcome-text" style="width: 25%;">about us</h1>
+	<br/>
+	<h2>Best Medical & Health care Needs to Our Patients</h2>
+	<div class="about-box">
+		<div>
+			<p>
+				hospital, an institution that is built, staffed, and equipped for the diagnosis of disease; for the treatment, both medical and surgical, of the sick and the injured; and for their housing during this process. The modern hospital also often serves as a centre for investigation and for teaching.
+			</p>
+			<br/>
+			<p>
+				To better serve the wide-ranging needs of the community, the modern hospital has often developed outpatient facilities, as well as emergency, psychiatric, and rehabilitation services. In addition, “bedless hospitals” provide strictly ambulatory (outpatient) care and day surgery. 
+			</p>
+		</div>
+		<div>
+			<img src="images/5.jpg" width="100%">
+		</div>
+	</div>
+    </div>
+</section>
+<!-- End Section Coding-->
+<!-- Start Footer Coding-->
+<footer>
+	<div class="w-80">
+		<div class="footer-box">
+ 		<h2>Services</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>About Us</h2>
+ 		<a href="#">Company Overview</a>
+ 		<a href="#">Management</a>
+ 		<a href="#">Initiatives</a>
+ 		<a href="#">Carrers</a>
+ 		<a href="#">Our Doctors Achieve</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Contact Us</h2>
+ 		<a href="#">Post a Query</a>
+ 		<a href="#">Apollo Clinics</a>
+ 		<a href="#">Reach Hospitals</a>
+ 		<a href="#">Apollo Cradle</a>
+ 		<a href="#">Ask Question</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Facilities</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+	</div>
+</footer>
+<!-- End footer Coding-->
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta name="keywords" content="HOSPITAL,HOSPITAL.COM,HOSPITAL WEBSITE, MEDICAN">
+	<meta name="description" content="india's best hospital website of indian">
+	<meta name="author" content="hospital.com">
+	<title>hospital.com</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/fontawesome/css/all.css">
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+</head>
+<body>
+<!-- Start Header Coding-->
+<header>
+	<div class="menu">
+		<!-- Start Brand name coding-->
+		<div class="brand-name">
+			<a href="index.html">
+				<h2 class="animated flash">
+				<i class="fa fa-hospital"></i>&nbsp;
+				HOSPITAL.COM</h2>
+			</a>
+		</div>
+		<!-- End Brand name coding-->
+		<!-- Start Nav coding & menu coding -->
+         <nav>
+         	<ul>
+         		<li><a href="index.html">Home</a></li>
+         		<li><a href="gallery.html">Gallery</a></li>
+         		<li><a href="register.html">Register</a></li>
+         		<li><a href="login.html">Login</a></li>
+         		<li><a href="contact.html">Contact Us</a></li>
+         	</ul>
+         </nav>
+		<!-- End Nav coding & menu coding -->
+	</div>
+</header>
+<!-- End Header Coding-->
+<!-- Start Section Coding-->
+<section>
+	<div class="w-80">
+     <div class="form-box">
+     	<h1>Login Page</h1>
+     	<hr>
+     	<form>
+     		<label for="username"><b>Username :</b></label><br/>
+				<input type="text" name="username" id="username" />
+				<br/><br/>
+
+				<label for="password"><b>Password :</b></label>
+				<br/>
+				<input type="password" name="password" id="password" />
+				<br/><br/>
+
+				<button type="submit" id="login-btn">Login</button>
+				<button type="submit" id="login-btn">Register New User</button>
+				<br/><br/>
+				<p>Forget Password ? <a href="register.html">Click Here</a></p>
+     	</form>
+     </div>
+    </div>
+</section>
+<!-- End Section Coding-->
+<!-- Start Footer Coding-->
+<footer>
+	<div class="w-80">
+		<div class="footer-box">
+ 		<h2>Services</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>About Us</h2>
+ 		<a href="#">Company Overview</a>
+ 		<a href="#">Management</a>
+ 		<a href="#">Initiatives</a>
+ 		<a href="#">Carrers</a>
+ 		<a href="#">Our Doctors Achieve</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Contact Us</h2>
+ 		<a href="#">Post a Query</a>
+ 		<a href="#">Apollo Clinics</a>
+ 		<a href="#">Reach Hospitals</a>
+ 		<a href="#">Apollo Cradle</a>
+ 		<a href="#">Ask Question</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Facilities</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+	</div>
+</footer>
+<!-- End footer Coding-->
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta name="keywords" content="HOSPITAL,HOSPITAL.COM,HOSPITAL WEBSITE, MEDICAN">
+	<meta name="description" content="india's best hospital website of indian">
+	<meta name="author" content="hospital.com">
+	<title>hospital.com</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/fontawesome/css/all.css">
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+</head>
+<body>
+<!-- Start Header Coding-->
+<header>
+	<div class="menu">
+		<!-- Start Brand name coding-->
+		<div class="brand-name">
+			<a href="index.html">
+				<h2 class="animated flash">
+				<i class="fa fa-hospital"></i>&nbsp;
+				HOSPITAL.COM</h2>
+			</a>
+		</div>
+		<!-- End Brand name coding-->
+		<!-- Start Nav coding & menu coding -->
+         <nav>
+         	<ul>
+         		<li><a href="index.html">Home</a></li>
+         		<li><a href="gallery.html">Gallery</a></li>
+         		<li><a href="register.html">Register</a></li>
+         		<li><a href="login.html">Login</a></li>
+         		<li><a href="contact.html">Contact Us</a></li>
+         	</ul>
+         </nav>
+		<!-- End Nav coding & menu coding -->
+	</div>
+</header>
+<!-- End Header Coding-->
+<!-- Start Section Coding-->
+<section>
+	<div class="w-80">
+     <div class="form-box">
+     	<h1>Contact Us</h1>
+     	<hr>
+     	<form>
+     		<label for="fullname"><b>Your name :</b></label><br/>
+				<input type="text" name="name" id="fullname" placeholder="Enter Fullname">
+				<br/><br/>
+
+				<label for="email"><b>Email :</b></label>
+				<br/>
+				<input type="email" name="email" id="email" placeholder="Enter Your Email">
+				<br/><br/>
+
+				<label for="message"><b>Your message :</b></label>
+				<br/>
+				<textarea id="message" placeholder="Enter Your Message"></textarea>
+				<br/><br/>
+
+				<button type="submit" id="contact-btn">Send Email</button>
+     	</form>
+     </div>
+    </div>
+</section>
+<!-- End Section Coding-->
+<!-- Start Footer Coding-->
+<footer>
+	<div class="w-80">
+		<div class="footer-box">
+ 		<h2>Services</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>About Us</h2>
+ 		<a href="#">Company Overview</a>
+ 		<a href="#">Management</a>
+ 		<a href="#">Initiatives</a>
+ 		<a href="#">Carrers</a>
+ 		<a href="#">Our Doctors Achieve</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Contact Us</h2>
+ 		<a href="#">Post a Query</a>
+ 		<a href="#">Apollo Clinics</a>
+ 		<a href="#">Reach Hospitals</a>
+ 		<a href="#">Apollo Cradle</a>
+ 		<a href="#">Ask Question</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Facilities</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+	</div>
+</footer>
+<!-- End footer Coding-->
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta name="keywords" content="HOSPITAL,HOSPITAL.COM,HOSPITAL WEBSITE, MEDICAN">
+	<meta name="description" content="india's best hospital website of indian">
+	<meta name="author" content="hospital.com">
+	<title>hospital.com</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/fontawesome/css/all.css">
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+</head>
+<body>
+<!-- Start Header Coding-->
+<header>
+	<div class="menu">
+		<!-- Start Brand name coding-->
+		<div class="brand-name">
+			<a href="index.html">
+				<h2 class="animated flash">
+				<i class="fa fa-hospital"></i>&nbsp;
+				HOSPITAL.COM</h2>
+			</a>
+		</div>
+		<!-- End Brand name coding-->
+		<!-- Start Nav coding & menu coding -->
+         <nav>
+         	<ul>
+         		<li><a href="index.html">Home</a></li>
+         		<li><a href="gallery.html">Gallery</a></li>
+         		<li><a href="register.html">Register</a></li>
+         		<li><a href="login.html">Login</a></li>
+         		<li><a href="contact.html">Contact Us</a></li>
+         	</ul>
+         </nav>
+		<!-- End Nav coding & menu coding -->
+	</div>
+</header>
+<!-- End Header Coding-->
+<!-- Start Section Coding-->
+<section>
+	<div class="w-80">
+     <div class="form-box">
+     	<h1>Our Gallery</h1>
+     	<div class="gallery">
+		<div class="animated flash">
+			<img src="images/1.jpg" width="100%" height="100%" >
+		</div>
+		<div class="animated flash">
+			<img src="images/2.jpg" width="100%" height="100%">
+		</div>
+		<div class="animated flash">
+			<img src="images/3.jpg" width="100%" height="100%">
+		</div>
+		<div class="animated flash">
+			<img src="images/4.jpg" width="100%" height="100%">
+		</div>
+	    </div>
+        
+        <div class="gallery">
+		<div class="animated flash">
+			<img src="images/5.jpg" width="100%" height="100%">
+		</div>
+		<div class="animated flash">
+			<img src="images/6.jpg" width="100%" height="100%">
+		</div>
+		<div class="animated flash">
+			<img src="images/7.jpg" width="100%" height="100%">
+		</div>
+		<div class="animated flash">
+			<img src="images/8.jpg" width="100%" height="100%">
+		</div>
+	    </div>
+
+        <div class="gallery">
+		<div class="animated flash">
+			<img src="images/9.jpg" width="100%" height="100%">
+		</div>
+		<div class="animated flash">
+			<img src="images/2.jpg" width="100%" height="100%">
+		</div>
+		<div class="animated flash">
+			<img src="images/3.jpg" width="100%" height="100%">
+		</div>
+		<div class="animated flash">
+			<img src="images/4.jpg" width="100%" height="100%">
+		</div>
+	    </div>
+     </div>
+    </div>
+</section>
+<!-- End Section Coding-->
+<!-- Start Footer Coding-->
+<footer>
+	<div class="w-80">
+		<div class="footer-box">
+ 		<h2>Services</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>About Us</h2>
+ 		<a href="#">Company Overview</a>
+ 		<a href="#">Management</a>
+ 		<a href="#">Initiatives</a>
+ 		<a href="#">Carrers</a>
+ 		<a href="#">Our Doctors Achieve</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Contact Us</h2>
+ 		<a href="#">Post a Query</a>
+ 		<a href="#">Apollo Clinics</a>
+ 		<a href="#">Reach Hospitals</a>
+ 		<a href="#">Apollo Cradle</a>
+ 		<a href="#">Ask Question</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Facilities</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+	</div>
+</footer>
+<!-- End footer Coding-->
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta name="keywords" content="HOSPITAL,HOSPITAL.COM,HOSPITAL WEBSITE, MEDICAN">
+	<meta name="description" content="india's best hospital website of indian">
+	<meta name="author" content="hospital.com">
+	<title>hospital.com</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/fontawesome/css/all.css">
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+</head>
+<body>
+<!-- Start Header Coding-->
+<header>
+	<div class="menu">
+		<!-- Start Brand name coding-->
+		<div class="brand-name">
+			<a href="index.html">
+				<h2 class="animated flash">
+				<i class="fa fa-hospital"></i>&nbsp;
+				HOSPITAL.COM</h2>
+			</a>
+		</div>
+		<!-- End Brand name coding-->
+		<!-- Start Nav coding & menu coding -->
+         <nav>
+         	<ul>
+         		<li><a href="index.html">Home</a></li>
+         		<li><a href="gallery.html">Gallery</a></li>
+         		<li><a href="register.html">Register</a></li>
+         		<li><a href="login.html">Login</a></li>
+         		<li><a href="contact.html">Contact Us</a></li>
+         	</ul>
+         </nav>
+		<!-- End Nav coding & menu coding -->
+	</div>
+</header>
+<!-- End Header Coding-->
+<!-- Start Section Coding-->
+<section>
+	<div class="w-80">
+     <div class="form-box">
+     	<h1>User Registration Page</h1>
+     	<hr>
+     	<form>
+				<label for="name"><b>Name :</b></label><br/>
+				<input type="text" name="name" id="name" />
+				<br/><br/>
+
+				<label for="email"><b>Email :</b></label><br/>
+				<input type="email" name="email" id="email" />
+				<br/><br/>
+
+				<label for="mobile"><b>Mobile :</b></label><br/>
+				<input type="number" name="mobile" id="mobile" />
+				<br/><br/>
+
+				<label for="username"><b>Username :</b></label><br/>
+				<input type="text" name="username" id="username" />
+				<br/><br/>
+
+				<label for="password"><b>Password :</b></label>
+				<br/>
+				<input type="password" name="password" id="password" />
+				<br/><br/>
+
+				<label for="re-password"><b>Confirm Password :</b></label>
+				<br/>
+				<input type="password" name="re-password" id="re-password" />
+				<br/><br/>
+
+				<button type="submit" id="register-btn">Submit</button>
+				
+			</form>
+     </div>
+    </div>
+</section>
+<!-- End Section Coding-->
+<!-- Start Footer Coding-->
+<footer>
+	<div class="w-80">
+		<div class="footer-box">
+ 		<h2>Services</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>About Us</h2>
+ 		<a href="#">Company Overview</a>
+ 		<a href="#">Management</a>
+ 		<a href="#">Initiatives</a>
+ 		<a href="#">Carrers</a>
+ 		<a href="#">Our Doctors Achieve</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Contact Us</h2>
+ 		<a href="#">Post a Query</a>
+ 		<a href="#">Apollo Clinics</a>
+ 		<a href="#">Reach Hospitals</a>
+ 		<a href="#">Apollo Cradle</a>
+ 		<a href="#">Ask Question</a>
+ 	</div>
+ 	<div class="footer-box">
+ 		<h2>Facilities</h2>
+ 		<a href="#">HEPATOLOGY</a>
+ 		<a href="#">MEDICAL DRESSAGE</a>
+ 		<a href="#">LABORATORY</a>
+ 		<a href="#">VACCINATIONS</a>
+ 		<a href="#">WHITENING</a>
+ 	</div>
+	</div>
+</footer>
+<!-- End footer Coding-->
+</body>
+</html>
